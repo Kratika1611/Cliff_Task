@@ -18,6 +18,7 @@
 # 2. Docker run for RESTAPI
 ## > docker pull kratika1611/restapi
 ## > docker run -it kratika1611/restapi bash
+## > python3 app.py
 
 ![Screenshot from 2021-10-20 18-30-43](https://user-images.githubusercontent.com/92814344/138097808-69858c13-cea2-47a2-86aa-0685ce3e7f2e.png)
 
